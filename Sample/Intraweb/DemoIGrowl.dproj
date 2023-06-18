@@ -106,6 +106,8 @@
             <DesignClass>TIWUserSessionBase</DesignClass>
         </DCCReference>
         <DCCReference Include="..\..\Source\Growl4D.Types.pas"/>
+        <DCCReference Include="..\..\Source\Growl4D.Interfaces.pas"/>
+        <DCCReference Include="..\..\Source\Growl4D.IW.pas"/>
         <BuildConfiguration Include="Base">
             <Key>Base</Key>
         </BuildConfiguration>
